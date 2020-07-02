@@ -1,0 +1,9 @@
+﻿  генератор стереокартинок с++.cpp
+c:\users\igor\desktop\programms\visual studio projects\генератор стереокартинок полный с++\генератор стереокартинок с++\генератор стереокартинок с++.cpp(374): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note:  см. объявление "itoa"
+c:\users\igor\desktop\programms\visual studio projects\генератор стереокартинок полный с++\генератор стереокартинок с++\генератор стереокартинок с++.cpp(375): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note:  см. объявление "strcat"
+  stdafx.cpp
+  Source.h
+  Создание кода...
+  генератор стереокартинок с++.vcxproj -> C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок полный с++\Debug\генератор стереокартинок с++.exe

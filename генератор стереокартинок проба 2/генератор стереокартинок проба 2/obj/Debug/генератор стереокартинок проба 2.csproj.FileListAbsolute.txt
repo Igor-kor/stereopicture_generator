@@ -1,0 +1,8 @@
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\bin\Debug\генератор стереокартинок проба 2.exe.config
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\obj\Debug\генератор_стереокартинок_проба_2.Form1.resources
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\obj\Debug\генератор_стереокартинок_проба_2.Properties.Resources.resources
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\obj\Debug\генератор стереокартинок проба 2.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\bin\Debug\генератор стереокартинок проба 2.exe
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\bin\Debug\генератор стереокартинок проба 2.pdb
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\obj\Debug\генератор стереокартинок проба 2.exe
+C:\Users\Igor\Desktop\programms\visual studio projects\генератор стереокартинок проба 2\генератор стереокартинок проба 2\obj\Debug\генератор стереокартинок проба 2.pdb

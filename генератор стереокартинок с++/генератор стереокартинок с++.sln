@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "генератор стереокартинок с++", "генератор стереокартинок с++\генератор стереокартинок с++.vcxproj", "{24378358-A58E-4AFE-9E90-E83D3F9DA36D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "генератор стереокартинок проба 2", "..\генератор стереокартинок проба 2\генератор стереокартинок проба 2\генератор стереокартинок проба 2.csproj", "{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Debug|x64.ActiveCfg = Debug|x64
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Debug|x64.Build.0 = Debug|x64
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Debug|x86.ActiveCfg = Debug|Win32
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Debug|x86.Build.0 = Debug|Win32
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Release|Any CPU.ActiveCfg = Release|Win32
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Release|x64.ActiveCfg = Release|x64
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Release|x64.Build.0 = Release|x64
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Release|x86.ActiveCfg = Release|Win32
+		{24378358-A58E-4AFE-9E90-E83D3F9DA36D}.Release|x86.Build.0 = Release|Win32
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Debug|x64.Build.0 = Debug|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Debug|x86.Build.0 = Debug|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Release|x64.ActiveCfg = Release|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Release|x64.Build.0 = Release|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Release|x86.ActiveCfg = Release|Any CPU
+		{0F8535C2-1DC8-4CD4-8079-1389CD225EF2}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

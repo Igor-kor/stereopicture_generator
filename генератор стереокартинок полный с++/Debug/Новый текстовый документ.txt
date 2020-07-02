@@ -1,0 +1,43 @@
+Bitmap(CBitmap* bitmap)
+ 400
+400Bitmap imageout(stereoimage.GenerateStereoPicture(mask));
+GenerateStereoPicture
+w = 400h = 400
+GetNewStereoPicture
+w = 500h = 100
+OpenCBitmap(CBitmap* bitmap)
+ 608
+809
+
+
+
+Bitmap(CBitmap* bitmap)
+ 400
+400Bitmap imageout(stereoimage.GenerateStereoPicture(mask));
+GenerateStereoPicture
+w = 400h = 400
+GetNewStereoPicture
+w = 500h = 100
+#END GetNewStereoPicture
+
+Bitmap(CBitmap* bitmap)
+ 400
+400Bitmap imageout(stereoimage.GenerateStereoPicture(mask));
+GenerateStereoPicture
+w = 400h = 400
+GetNewStereoPicture
+w = 500h = 100
+OpenCBitmap(CBitmap* bitmap)
+ 608
+809
+
+Bitmap(CBitmap* bitmap)
+ 400
+400Bitmap imageout(stereoimage.GenerateStereoPicture(mask));
+GenerateStereoPicture
+w = 400h = 400
+GetNewStereoPicture
+w = 500h = 100
+OpenCBitmap(CBitmap* bitmap)
+ 400
+400GetNewStereoPicture for (int i = 0; i < w; i++)
